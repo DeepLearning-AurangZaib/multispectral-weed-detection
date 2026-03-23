@@ -1,0 +1,7 @@
+torch
+tensorflow
+opencv-python
+ultralytics
+scikit-learn
+matplotlib
+numpy

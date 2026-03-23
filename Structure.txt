@@ -1,0 +1,21 @@
+multispectral-weed-detection/
+│
+├── data_info/
+│   └── dataset_links.txt
+│
+├── notebooks/
+│   ├── classification.ipynb
+│   ├── detection.ipynb
+│   └── segmentation.ipynb
+│
+├── scripts/
+│   ├── preprocessing.py
+│   ├── mask_conversion.py
+│   └── training.py
+│
+├── results/
+│   ├── figures/
+│   └── tables/
+│
+├── README.md
+└── requirements.txt

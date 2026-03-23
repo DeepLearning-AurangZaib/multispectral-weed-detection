@@ -1,0 +1,17 @@
+WeedsGalore (Celikkan et al. 2025)		https://github.com/GFZ/weedsgalore.
+
+Weedmap (Sa et al. 2018)			https://projects.asl.ethz.ch/datasets/doku.php?id=weedmap:remotesensing2018weedmap
+
+WeedNet (Sa et al. 2017)			https://github.com/inkyusa/weedNet
+
+Sugar Beets 2016 (Chebrolu et al. 2017)		https://www.ipb.uni-bonn.de/2018/10/
+
+Crop Weed Field Image (Haug and Ostermann 2015)	https://github.com/cwfid/dataset
+
+Carrots 2017 (Bosilj et al. 2020) 		https://lcas.lincoln.ac.uk/nextcloud/index.php/s/RYni5xngnEZEFkR
+
+Onions 2017 (Bosilj et al. 2020)		https://lcas.lincoln.ac.uk/nextcloud/index.php/s/e8uiyrogObAPtcN
+
+Sunflower (Fawakherji et al. 2021)		http://www.diag.uniroma1.it/~labrococo/fsd/sunflowerdatasets.html.
+
+Segmentation For Plants (López et al. 2022)	https://github.com/Heikelol/Hiperespectrales, https://github.com/Heikelol/SegmentationForPlants
