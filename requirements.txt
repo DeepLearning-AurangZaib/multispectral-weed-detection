@@ -1,7 +1,10 @@
 torch
-tensorflow
+torchvision
 opencv-python
-ultralytics
-scikit-learn
-matplotlib
 numpy
+matplotlib
+pandas
+scikit-learn
+tqdm
+ultralytics
+transformers
