@@ -15,7 +15,7 @@ using multispectral imagery (NIR and Red Edge).
 
 ## 📁 Repository Structure
 
-data_info/ → Dataset links  
+data_info/ → Dataset links, sample images   
 notebooks/ → Jupyter notebooks  
 scripts/ → Preprocessing & training scripts  
 results/ → Figures and tables  
@@ -38,4 +38,4 @@ Run notebooks in /notebooks folder
 
 ## Citation
 Classification, detection and segmentation of weeds in crops using publicly available Multispectral images and Deep learning models 
-by Aurang Zaib, Muhammad Shahzad Shifa
+by Aurang Zaib *, Muhammad Shahzad Shifa
